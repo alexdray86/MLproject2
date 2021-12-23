@@ -16,6 +16,14 @@ Enjoy !
 
 Tested on MACOSX Catalina. Tensorflow-GPU for DELTA was not tested. 
 
+## Getting the folder with DATA 
+
+The data folder can be found on a google drive on the following address : 
+
+`https://drive.google.com/drive/folders/1toTD_Z38_nL6yskP0La7vFjfLn8fp1Uk?usp=sharing` 
+
+which allows to create a folder data/ at the root of the project's folder
+
 ## Description of the methods used
 
 Hereafter we aimed at giving a step-by-step README to be able to build training set, train the models, get predictions and analyse predictions in a chronological order. We start with all processes linked with segmentation, continue with cell tracking and finish with inference of theta transition matrix.
