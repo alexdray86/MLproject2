@@ -1,5 +1,12 @@
-### MLproject2
+# MLproject2
 Project for the EPFL Machine Learning course done in the scope of ML4Science.
+
+## Appendix linked to in REPORT
+
+two pdf are found on this git that relates to Appendix1 and Appendix2 we refered to in our report 
+
+- Appendix1.pdf define the CELLMA method developed here at EPFL by professor Gioele La Manno and his PhD student Alex Lederer. They developed a Maximum Likelihood Estimation approach to infer Theta transition matrix from cell lineage.
+- Appendix2.pdf describe the Expectation-Maximization algoritm we derived and formalized based on the abovementionned method. 
 
 ## Installation of Python Env
 
